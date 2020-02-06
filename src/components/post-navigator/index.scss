@@ -1,0 +1,35 @@
+@import '../../styles/variables.scss';
+
+.navigator {
+  margin: 40px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .prev {
+    display: inline-block;
+    text-align: center;
+    background: #355a85;
+    line-height: 40px;
+    border-radius: 30px;
+  }
+
+  .next {
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    background: #355a85;
+    border-radius: 30px;
+  }
+
+  a {
+    margin: auto;
+    padding: 16px 8px 16px 8px;
+    font-size: 17px;
+    color: #fff;
+  }
+
+  a:hover {
+    color : $link-hover-color
+  }
+}

@@ -1,0 +1,42 @@
+@import '../../styles/variables.scss';
+
+.user {
+  display: flex;
+  align-items: center;
+  margin: 0 auto 12px auto;
+}
+
+.user:last-child {
+  margin-bottom: 0;
+}
+
+
+.description {
+  flex: 1;
+  padding-top: 5px;
+  margin-left: 18px;
+  font-size: 17px;
+  color: #666565;
+
+  .author {
+    margin: 0 0 3px 0;
+    padding: 0;
+    color: $main-color;
+    opacity: 0.7;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+  }
+
+  .author:hover {
+    color: $link-hover-color;
+  }
+
+  .intro {
+    margin-bottom: 15px;
+    font-weight: 100;
+  }
+
+  .icon {
+    color: $main-color;
+  }
+}
