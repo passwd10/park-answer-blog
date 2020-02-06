@@ -1,5 +1,5 @@
 ---
-title: [React] Context API는 상태관리 라이브러리를 대체할 수 있을까
+title: "[React] Context API는 상태관리 라이브러리를 대체할 수 있을까"
 data: 2019-11-30
 tag: ['React']
 ---
