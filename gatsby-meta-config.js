@@ -18,7 +18,7 @@ module.exports = {
   planTitle: `Future Action Plan`, // Your blog planTitle
   showPlan: true, //If you don't want to see the plan, change the status to false.
   comment: {
-    disqusShortName: 'passwd10', // Your disqus-short-name. check disqus.com.
+    disqusShortName: 'parkanswer', // Your disqus-short-name. check disqus.com.
   },
   ga: 'UA-149433358-1', // Add your google analytics tranking ID
 }
