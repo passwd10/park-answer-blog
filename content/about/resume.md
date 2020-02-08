@@ -12,26 +12,40 @@ layout: about
 
 ## 경험 기술
 
-- HTML
-- CSS
-- Javascript
-- NodeJS
-- React
-- Webpack
-- Gatsby
-- Java
-- mongoDB
-- docker
-- Linux
-- Kotlin
+### Language
+
+- JavaScript / Kotlin / Java / GraphQL
+
+### FrontEnd
+
+- HTML / CSS / SCSS / styled components / ReactJS / Webpack / Babel
+
+### BackEnd
+
+- Node.JS / Express / Firebase
+
+### Mobile
+
 - Android
-- Git
-- TDD
+
+### Database
+
+- MongoDB
+
+### Deploy
+
+- Netlify / Atlas / Heroku / AWS EC2
+
+### ETC
+
+- Git / Jest / Docker / Linux / Gatsby / npm
 
 ## 읽은 책
 
 - Pro Git
-- 모두의 네트워크
-- 그림으로 배우는 Http & NetWork
 - 웹을 지탱하는 기술
+- 모두의 네트워크
 - 그림으로 배우는 네트워크
+- 하루3분 네트워크 교실
+- 그림으로 배우는 Http & NetWork
+- 오준석의 안드로이드 생존코딩
