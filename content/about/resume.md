@@ -9,10 +9,18 @@ layout: about
 `Web`에 관심이 많고 `Full Stack` 개발을 지향합니다.
 
 |             |                                 |
-|------------:| :------------------------------ |
+|:------------| :------------------------------ |
 | **GitHub**  | https://github.com/passwd10     |
 | **Blog**    | https://park-answer.netlify.com |
 | **Email**   | inseo9494@gmail.com             |
+
+<br />
+
+### Open Source Projects
+
+#### **gatsby-starter-answer**
+
+- https://github.com/passwd10/gatsby-starter-answer
 
 <br />
 
@@ -31,6 +39,8 @@ layout: about
 **Deploy** : Netlify / Atlas / Heroku / AWS EC2
 
 **ETC** : Git / Jest / Docker / Linux / Gatsby / npm
+
+<br />
 
 ### 읽은 책
 
