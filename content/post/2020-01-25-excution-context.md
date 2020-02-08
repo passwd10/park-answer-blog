@@ -1,5 +1,5 @@
 ---
-title: "[Javascript]] 실행컨텍스트의 모든것"
+title: "[Javascript] 실행컨텍스트의 모든것"
 date: 2020-01-25
 tag: ['Javascript']
 ---
