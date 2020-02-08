@@ -1,7 +1,7 @@
 ---
 title: "[Web] '웹을 지탱하는 기술' 3회차 스터디 내용 정리"
 date: 2020-01-04
-tag: ['Study', 'Book']
+tag: ['Study']
 ---
 
 ## 10. HTML

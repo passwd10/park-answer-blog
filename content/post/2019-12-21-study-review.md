@@ -1,7 +1,7 @@
 ---
 title: "[Web] '웹을 지탱하는 기술' 1회차 스터디 내용 정리"
 date: 2019-12-21
-tag: ['Study', 'Book']
+tag: ['Study']
 ---
 
 집필 목적

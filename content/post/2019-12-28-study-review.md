@@ -1,7 +1,7 @@
 ---
 title: "[Web] '웹을 지탱하는 기술' 2회차 스터디 내용 정리"
 date: 2019-12-28
-tag: ['Study', 'Book']
+tag: ['Study']
 ---
 
 ## HTTP
