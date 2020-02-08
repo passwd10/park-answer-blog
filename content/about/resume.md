@@ -4,43 +4,35 @@ date: 2020-02-02
 layout: about
 ---
 
-## About Me
+## Park Answer
 
-### 이태원 코딩도장에서 개발 수련중인 **박인서** 입니다.
+`Web`에 관심이 많고 `Full Stack` 개발을 지향합니다.
 
-### `Web`에 관심이 많고 `Full Stack` 개발을 지향합니다.
+|             |                                 |
+|------------:| :------------------------------ |
+| **GitHub**  | https://github.com/passwd10     |
+| **Blog**    | https://park-answer.netlify.com |
+| **Email**   | inseo9494@gmail.com             |
 
-## 경험 기술
+<br />
 
-### Language
+### 경험 기술
 
-- JavaScript / Kotlin / Java / GraphQL
+**Language** : JavaScript / Kotlin / Java / GraphQL
 
-### FrontEnd
+**FrontEnd** : HTML / CSS / SCSS / styled components / ReactJS / Webpack / Babel
 
-- HTML / CSS / SCSS / styled components / ReactJS / Webpack / Babel
+**BackEnd** : Node.JS / Express / Firebase
 
-### BackEnd
+**Mobile** : Android
 
-- Node.JS / Express / Firebase
+**Database** : MongoDB
 
-### Mobile
+**Deploy** : Netlify / Atlas / Heroku / AWS EC2
 
-- Android
+**ETC** : Git / Jest / Docker / Linux / Gatsby / npm
 
-### Database
-
-- MongoDB
-
-### Deploy
-
-- Netlify / Atlas / Heroku / AWS EC2
-
-### ETC
-
-- Git / Jest / Docker / Linux / Gatsby / npm
-
-## 읽은 책
+### 읽은 책
 
 - Pro Git
 - 웹을 지탱하는 기술
