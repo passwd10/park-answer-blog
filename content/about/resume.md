@@ -41,14 +41,3 @@ layout: about
 **ETC** : Git / Jest / Docker / Linux / Gatsby / npm
 
 <br />
-
-### 읽은 책
-
-- Pro Git
-- 웹을 지탱하는 기술
-- 모두의 네트워크
-- 그림으로 배우는 네트워크
-- 하루3분 네트워크 교실
-- 그림으로 배우는 Http & NetWork
-- 코어 자바스크립트
-- 오준석의 안드로이드 생존코딩
