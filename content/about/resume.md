@@ -11,7 +11,7 @@ layout: about
 |             |                                 |
 |:------------| :------------------------------ |
 | **GitHub**  | https://github.com/passwd10     |
-| **Blog**    | https://park-answer.netlify.com |
+| **Blog**    | https://park-answer.netlify.app |
 | **Email**   | inseo9494@gmail.com             |
 
 <br />
