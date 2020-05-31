@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Find-Answer.dev`, // Your blog title
+  title: `Find Answer`, // Your blog title
   description: `박인서 블로그`, // Your blog description
   author: `Park Answer`,
   introduction: `Find answer in the record`,
