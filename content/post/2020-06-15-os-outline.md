@@ -67,7 +67,7 @@ ROM에는 어떤 프로그램을 넣어둬야 하는가?
 
 ## 운영체제의 위치
 
-![os_location](./image/os_location.png)
+![os_location](./images/os_location.png)
 
 - H/W : 컴퓨터의 가장 내부에 있음
 - OS : 커널(kernel) + 명령 해석기(shell, command interpreter)
