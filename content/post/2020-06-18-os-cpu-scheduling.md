@@ -38,7 +38,7 @@ Burst Time : CPU 시간을 얼마나 사용할것인가
 
 ![fcfs](./images/fcfs1.png)
 
-AWT = (0 + 24 + 27) / 3 = 17 msec
+AWT(Average Waiting Time) = (0 + 24 + 27) / 3 = 17 msec
 
 ![fcfs](./images/fcfs2.png)
 
@@ -146,8 +146,8 @@ RR은 작업이 끝날 때 까지 기다리는 것이 아니라 일정 시간 �
 - Time Quantum = 4msec
 - AWT = (6 + 4 + 7) / 3 = 5.66 msec
 
-타임 슬라이스를 무한대로 둔다면? FCFS와 동일
-타임 슬라이스가 0 이면? Process sharing (3개의 프로세스가 거의 동시에 돌고있는것 처럼 느껴진다) - context switching overhead 발생
+- 타임 슬라이스를 무한대로 둔다면? FCFS와 동일
+- 타임 슬라이스가 0 이면? Process sharing (3개의 프로세스가 거의 동시에 돌고있는것 처럼 느껴진다) - context switching overhead 발생
 
 #### 반환시간이 측정 기준이라면
 
