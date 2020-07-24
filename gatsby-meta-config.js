@@ -15,7 +15,7 @@ module.exports = {
     }
   ],
   icon: `content/assets/icon.png`, // Your blog icon
-  planTitle: `Future Action Plan`, // Your blog planTitle
+  planTitle: `읽는 책 📖`, // Your blog planTitle
   showPlan: true, //If you don't want to see the plan, change the status to false.
   comment: {
     disqusShortName: 'parkanswer', // Your disqus-short-name. check disqus.com.
