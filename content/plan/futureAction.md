@@ -6,7 +6,7 @@ layout: plan
 
 ## 읽는 책 📖
 
-- 데일 카네기 인간관계론
+- 더 리치
 - 자바스크립트 코딩의 기술
 - Pro Git
 
@@ -29,6 +29,7 @@ layout: plan
 - [책 잘 읽는 방법](https://park-answer.netlify.app/2020-06-24-book-review/)
 - [팩트풀니스](https://park-answer.netlify.app/2020-05-12-book-review/)
 - [함께 자라기(애자일로 가는길)](https://park-answer.netlify.app/2020-05-31-book-review/)
+- [데일 카네기 인간관계론](https://park-answer.netlify.app/2020-08-02-book-review/)
 
 <br />
 
@@ -40,7 +41,6 @@ layout: plan
 - 심플 소프트웨어
 - 린 UX
 - Quick Start TypeScript
-- 더리치
 - 사피엔스
 - 실용주의 프로그래머
 - IT에 몸담은 이들을 위한 지적 생산 기술
