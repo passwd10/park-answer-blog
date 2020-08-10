@@ -6,7 +6,6 @@ layout: plan
 
 ## 읽는 책 📖
 
-- 더 리치
 - 자바스크립트 코딩의 기술
 - Pro Git
 
@@ -30,6 +29,7 @@ layout: plan
 - [팩트풀니스](https://park-answer.netlify.app/2020-05-12-book-review/)
 - [함께 자라기(애자일로 가는길)](https://park-answer.netlify.app/2020-05-31-book-review/)
 - [데일 카네기 인간관계론](https://park-answer.netlify.app/2020-08-02-book-review/)
+- [더 리치](https://park-answer.netlify.app/2020-08-09-book-review/)
 
 <br />
 
@@ -46,3 +46,4 @@ layout: plan
 - IT에 몸담은 이들을 위한 지적 생산 기술
 - 개발자의 디자인 독해력
 - 함수형 자바스크립트 입문
+- 코드 컴플리트
