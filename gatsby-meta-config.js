@@ -3,7 +3,7 @@ module.exports = {
   description: `박인서 블로그`, // Your blog description
   author: `Park Answer`,
   introduction: `Find answer in the record`,
-  siteUrl: `http://park-answer.netlify.com/`, // Your blog site url
+  siteUrl: `http://park-answer.netlify.app/`, // Your blog site url
   social: [ //You can find and use icons on the https://fontawesome.com/icons?d=gallery&s=brands
     {
       icon: `github`,
