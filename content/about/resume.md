@@ -1,12 +1,12 @@
 ---
 title: "about"
-date: 2020-05-04
+date: 2020-08-11
 layout: about
 ---
 
 ## Park Answer
 
-`Web`에 관심이 많고 `Full Stack` 개발을 지향합니다.
+**Web**에 관심이 많고 **Full Stack** 개발을 지향합니다.
 
 |             |                                 |
 |:------------| :------------------------------ |
@@ -16,28 +16,40 @@ layout: about
 
 <br />
 
-### Open Source Projects
+### Projects
 
-#### **gatsby-starter-answer**
+#### **PoongDeong(엔젤핵)**
+
+- https://github.com/PoongDeong/poongdeong
+
+#### **gatsby-starter-answer(Open Source)**
 
 - https://github.com/passwd10/gatsby-starter-answer
 
 <br />
 
-### 경험 기술
+### Learning
+
+2019.07 ~ 2020.02 **이태원 코딩도장**
+
+2020.07 ~ **부스트캠프 챌린지**
+
+<br />
+
+### Experienced Skills
 
 **Language** : JavaScript / Kotlin / Java / GraphQL
 
-**FrontEnd** : HTML / CSS / SCSS / styled components / ReactJS / Webpack / Babel
+**FrontEnd** : HTML / ReactJS / Redux / Webpack / Babel / CSS / SCSS / styled-components / emotion-js
 
-**BackEnd** : Node.JS / Express / Firebase
+**BackEnd** : Node.JS ( Express ) / Firebase
 
 **Mobile** : Android
 
 **Database** : MongoDB
 
-**Deploy** : Netlify / Atlas / Heroku / AWS EC2
+**Deploy** : Netlify / Atlas / Heroku / AWS EC2 / AWS S3
 
-**ETC** : Git / Jest / Docker / Linux / Gatsby / npm
+**ETC** : Git / Jest / Docker / Linux / Gatsby
 
 <br />
