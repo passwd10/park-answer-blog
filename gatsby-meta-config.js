@@ -12,6 +12,10 @@ module.exports = {
     {
       icon: `google`,
       url: `https://inseo9494@gmail.com`
+    },
+    {
+      icon: `smile`,
+      url: `https://park-answer.netlify.app/about`
     }
   ],
   icon: `content/assets/icon.png`, // Your blog icon
