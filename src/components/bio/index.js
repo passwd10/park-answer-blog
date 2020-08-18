@@ -40,13 +40,23 @@ export const Bio = () => {
               </p>
               {social.map((v, index) =>
                 <a href={v.url} key={index}>
-                  <FontAwesomeIcon
-                    key={index}
-                    icon={['fab', v.icon]}
-                    style={{width: '23px', marginRight:'10px'}}
-                    fixedWidth
-                    className='icon'
-                  />
+                  if (v.icon === `smile`) {
+                    <FontAwesomeIcon
+                      key={index}
+                      icon={['far', v.icon]}
+                      style={{ width: '23px', marginRight: '10px' }}
+                      fixedWidth
+                      className='icon'
+                    />
+                  } else {
+                    <FontAwesomeIcon
+                      key={index}
+                      icon={['fab', v.icon]}
+                      style={{ width: '23px', marginRight: '10px' }}
+                      fixedWidth
+                      className='icon'
+                    />
+                  }
                 </a>
               )}
             </div>
