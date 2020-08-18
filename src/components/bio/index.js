@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library, config } from '@fortawesome/fontawesome-svg-core'
 import { faUser } from '@fortawesome/free-solid-svg-icons'
 import { fab } from '@fortawesome/free-brands-svg-icons'
-import { faSmile } from '@fortawesome/free-regular-svg-icons'
+import { far } from '@fortawesome/free-regular-svg-icons'
 import Image from 'gatsby-image'
 
 import './index.scss';
@@ -13,7 +13,7 @@ export const Bio = () => {
 
   config.autoAddCss = false
 
-  library.add(faUser, fab, faSmile)
+  library.add(faUser, fab, far)
   return (
     <StaticQuery
       query={bioQuery}
