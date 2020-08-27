@@ -14,17 +14,9 @@ layout: about
 
 🤔 **지적호기심**을 채우기 위해 블로그를 운영하고 있습니다.
 
-<div align="center">
-
 🦄 **Web**에 관심이 많고 **Full Stack** 개발을 지향합니다.
 
-</div>
-
-<div align="right">
-
 🌱 능동적으로 **의도**를 묻고 더 나은 것을 찾아갑니다.
-
-</div>
 
 <br />
 
