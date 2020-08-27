@@ -23,7 +23,7 @@ tag: ['etc']
 
 **gatsby build**는 사이트를 최적화한 새 버전을 생성하는데, 여기서 최적화는 사이트의 **config, data, code, 생성한 정적 HTML 페이지**를 패키징 하는 것을 말한다. 이때 정적 HTML 페이지는 React application으로 **hydration** 된 상태이다.
 
-&gt; hydration : 클라이언트 측 JavaScript를 사용하여 서버 렌더링 HTML에 응용프로그램 상태와 상호작용을 추가하는 과정이다. 이것은 Gatsby framework를 만드는 근본적인 도구 중 하나인 React의 특징이다. Gatsby는 hydration을 사용하여 빌드 시간에 만들어진 정적 HTML을 React application으로 변환한다.
+> hydration : 클라이언트 측 JavaScript를 사용하여 서버 렌더링 HTML에 응용프로그램 상태와 상호작용을 추가하는 과정이다. 이것은 Gatsby framework를 만드는 근본적인 도구 중 하나인 React의 특징이다. Gatsby는 hydration을 사용하여 빌드 시간에 만들어진 정적 HTML을 React application으로 변환한다.
 
 다음은 Gatsby default starter를 설치하여 build 했을 때의 console이다.
 
