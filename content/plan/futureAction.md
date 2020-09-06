@@ -30,7 +30,7 @@ layout: plan
 - [함께 자라기(애자일로 가는길)](https://park-answer.netlify.app/2020-05-31-book-review/)
 - [데일 카네기 인간관계론](https://park-answer.netlify.app/2020-08-02-book-review/)
 - [더 리치](https://park-answer.netlify.app/2020-08-09-book-review/)
-- 자바스크립트 코딩의 기술(조 모건)
+- [자바스크립트 코딩의 기술(조 모건)](https://park-answer.netlify.app/2020-09-07-book-review/)
 
 <br />
 
