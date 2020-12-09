@@ -1,6 +1,6 @@
 ---
 title: "about"
-date: 2020-08-25
+date: 2020-12-09
 layout: about
 ---
 
@@ -30,27 +30,15 @@ layout: about
 
 <br />
 
-### 🏃‍♂️ Learning
-
-<hr />
-
-2019.07 ~ 2020.02 **이태원 코딩도장**
-
-2020.07 ~ 2020.08 **네이버 부스트캠프 챌린지**
-
-2020.09 ~ **네이버 부스트캠프 멤버십**
-
-<br />
-
 ### 🤹🏻 Experienced Skills
 
 <hr />
 
-**Language** : JavaScript / Kotlin / Java / GraphQL
+**Language** : JavaScript / TypeScript / Java / GraphQL
 
-**FrontEnd** : ReactJS / Redux / SCSS / styled-components / emotion-js
+**FrontEnd** : ReactJS / Redux / Apollo-Client / SCSS / styled-components / emotion-js
 
-**BackEnd** : Node.JS ( Express ) / Firebase
+**BackEnd** : Node.JS ( Express ) / Apollo-Server / Firebase
 
 **Mobile** : Android
 
